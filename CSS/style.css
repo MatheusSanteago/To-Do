@@ -109,8 +109,6 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
-
-
 @media (max-width: 1360px){
     header{
         background-size: 1360px;
